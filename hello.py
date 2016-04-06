@@ -1,2 +1,4 @@
 print("Hello World")
-print("yay pyladies")
+print("yay Pyladies")
+print("foxtrot, echo")
+print("alpha, bravo, charlie, delta")
